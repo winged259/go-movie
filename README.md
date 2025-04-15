@@ -1,0 +1,1 @@
+GO movie server to practice CRUD with GO
